@@ -2906,18 +2906,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 1468156785}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 2072778613}
         m_TargetAssemblyTypeName: UnityEngine.Animator, UnityEngine
         m_MethodName: set_enabled
@@ -11895,7 +11883,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 222}
+  m_AnchoredPosition: {x: 0, y: 246}
   m_SizeDelta: {x: 719.3, y: 151.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1179560280
@@ -11918,8 +11906,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Serving as the Digital Navigator, her role is a huge part of our success
-    with our TeleMedicine suites since the residents enjoy her physically being present.
+  m_text: 'Serving as the Digital Navigator, her role is a huge part of our success
+    with our TeleMedicine suites since the residents enjoy her physically being present
+    while they meet with a provider virtually. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f675742eaf9c20a4f909d78ee7a14fed, type: 2}
   m_sharedMaterial: {fileID: 4687939059374929122, guid: f675742eaf9c20a4f909d78ee7a14fed, type: 2}
@@ -11946,8 +11935,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 65.1
-  m_fontSizeBase: 65.1
+  m_fontSize: 58.78
+  m_fontSizeBase: 58.78
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -12222,7 +12211,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 3fd93a4c7820543459e7183fbed2843a, type: 3}
+  m_Resource: {fileID: 8300000, guid: 246eb3de68e23a347a38c8766fbbac7e, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -12230,7 +12219,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 185
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -18594,7 +18583,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The experience is 10 minutes long. You will be seated for the duration.
+  m_text: "The experience is 5 minutes long. You will be seated for the duration.
     If you\u2019re ready to begin, please press the \u201CBegin Experience\u201D
     button using your controller."
   m_isRightToLeft: 0
@@ -20357,7 +20346,7 @@ AudioSource:
   m_GameObject: {fileID: 2072778611}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 1699d6c2d1de974408ab19fb75f615dc, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
