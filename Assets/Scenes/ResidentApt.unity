@@ -1967,7 +1967,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SortingOrder: 0
-  m_IsLive: 1
+  m_IsLive: 0
   m_Guid: cfe27309-93b8-472c-a62a-7880e445b16d
   m_DefaultLensAsset: {fileID: 5177688891170823328, guid: 0736b5832a28f0b43aa4705f8d840e01, type: 2}
   m_Actor: {fileID: 0}
@@ -4414,7 +4414,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SortingOrder: 2
-  m_IsLive: 1
+  m_IsLive: 0
   m_Actor: {fileID: 0}
   m_AvatarMask: {fileID: 0}
   m_Recorder:
@@ -14860,7 +14860,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SortingOrder: 1
-  m_IsLive: 1
+  m_IsLive: 0
   m_Actor: {fileID: 0}
   m_Channels: 15
   m_Recorder:
